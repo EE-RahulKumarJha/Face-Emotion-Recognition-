@@ -24,3 +24,5 @@ You can install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
