@@ -20,9 +20,10 @@ Before running the code, make sure you have the following dependencies installed
 - OpenCV
 - Other necessary libraries (specified in requirements.txt)
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 You can install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
